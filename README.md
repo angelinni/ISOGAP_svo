@@ -1,6 +1,6 @@
 # gap_heatmap.py
 
-#Creado por Danie Siervo  2021
+Creado por Danie Siervo  2021
 ## Introduction
 The gap_heatmap.py program allows quantitative monitoring of the evolution of the coverage of the National Seismological Network of Colombia in the areas of greatest interest to the Group of Evaluation and Monitoring of Seismic Activity of the Colombian Geological Survey, by calculating the maximum azimuthal GAP average in these areas and the generation of heat and contour maps.
 
